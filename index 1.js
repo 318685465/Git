@@ -7,4 +7,3 @@ d = c - d;
 
 c = c - d;
 
-console.log(c)
